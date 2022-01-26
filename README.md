@@ -7,15 +7,15 @@
 
 Предложение (до построения диаграммы): Нарисовать Портрет
 
-![none](https://github.com/AlexGur25/GurovAA/blob/main/model.png)
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab1/model.png)
 
 Предложение (после построения диаграммы): Художник Рисует Портрет на Заказ при помощи Кисти, используя Полотно и Краски.
 
 ### PLANTUML - программное средство автоматической генерации UML-диаграмм
 
-![none](https://github.com/AlexGur25/GurovAA/blob/main/model-platuniml.png)
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab1/model-platuniml.png)
 
-![none](https://github.com/AlexGur25/GurovAA/blob/main/model-2-platuniml.png)
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab1/model-2-platuniml.png)
 
 ## Лабораторная 2
 
