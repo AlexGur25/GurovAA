@@ -1,0 +1,15 @@
+@startuml
+actor ": Аналитик" as owner
+boundary "OTRS" as app
+entity "Данные" as data
+boundary "OTRS" as appmob
+actor ": Разработчик" as trainee
+owner -> app : Запрос на разработку
+app -> data : Обработка
+data -> appmob : Статус заявки "открыта"
+appmob -> trainee : Данные заявки
+trainee -> appmob : Подтверждение
+appmob -> data : Обработка
+data -> app : Ответ
+app -> owner : Статус заявки "В очереди"
+@enduml
