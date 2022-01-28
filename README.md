@@ -21,9 +21,13 @@
 
 ### IDEF0 диаграмма
 
-![none]()
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab2/l2model.png)
 
 Сотрудники отдела разработки алгоритмов и инструментов отчётности (аналитик и разработчик) при помощи SQL и Excel создают отчёт в соответствии с требованиями заказчика.
+
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab2/l2model-2.png)
+
+![none](https://github.com/AlexGur25/GurovAA/blob/main/lab2/l2model-3.png)
 
 ## Лабораторная 3
 
